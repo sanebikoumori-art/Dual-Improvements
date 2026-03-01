@@ -67,7 +67,7 @@
             "Pillaging this improvement yields approximately [+28 Gold]","Dual"],
 	},
 	{
-		"name": "Farm-Plantation",
+		"name": "Farm-Quarry",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 8,
