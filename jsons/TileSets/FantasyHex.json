@@ -1,0 +1,7 @@
+{
+    "ruleVariants":{
+      "Farm-Trading post":["Farm","Trading post"],
+      "Farm-Pasture":["Farm","Pasture"],
+      "Farm-Plantation":["Farm","Plantation"],
+    }
+}
