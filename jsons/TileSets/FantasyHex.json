@@ -1,10 +1,14 @@
 {
     "ruleVariants":{
+        //Farm series
+        "Grassland+Hill+Farm-Mine":["Grassland+Hill+Farm","Mine"],
+        "Plains+Hill+Farm-Mine":["Plains+Hill+Farm","Mine"],
+        "Desert+Hill+Farm-Mine":["Desert+Hill+Farm","Mine"],
+        "Tundra+Hill+Farm-Mine":["Tundra+Hill+Farm","Mine"],
+        
         "Grassland+Farm-Trading post":["Grassland+Farm","Trading post"],
         "Plains+Farm-Trading post":["Plains+Farm","Trading post"],
         "Desert+Farm-Trading post":["Desert+Farm","Trading post"],
         "Tundra+Farm-Trading post":["Tundra+Farm","Trading post"],
-        "Farm-Pasture":["Farm","Pasture"],
-        "Farm-Plantation":["Farm","Plantation"],
     }
 }
