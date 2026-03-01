@@ -5,10 +5,20 @@
         "Plains+Hill+Farm-Mine":["Plains+Hill+Farm","Mine"],
         "Desert+Hill+Farm-Mine":["Desert+Hill+Farm","Mine"],
         "Tundra+Hill+Farm-Mine":["Tundra+Hill+Farm","Mine"],
+        "Snow+Hill+Farm-Mine":["Snow+Hill+Farm","Mine"],
         
         "Grassland+Farm-Trading post":["Grassland+Farm","Trading post"],
         "Plains+Farm-Trading post":["Plains+Farm","Trading post"],
         "Desert+Farm-Trading post":["Desert+Farm","Trading post"],
         "Tundra+Farm-Trading post":["Tundra+Farm","Trading post"],
+        "Snow+Farm-Trading post":["Snow+Farm","Trading post"],
+
+        "Grassland+Oil+Farm-Oil well":["Grassland+Farm","Oil","Oil well"],
+        "Plains+Oil+Farm-Oil well":["Plains+Farm","Oil","Oil well"],
+        "Desert+Oil+Farm-Oil well":["Desert+Farm","Oil","Oil well"],
+        "Tundra+Oil+Farm-Oil well":["Tundra+Farm","Oil","Oil well"],
+        "Snow+Oil+Farm-Oil well":["Snow+Farm","Oil","Oil well"],
+        //途方に暮れるよ！->アルゴリズムつくろうぜ...
+        
     }
 }
